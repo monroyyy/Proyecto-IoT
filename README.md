@@ -3,9 +3,9 @@
 **TeleBrazo** es un sistema robótico teleoperado de 5 ejes, diseñado para ofrecer un control fluido y preciso a distancia con muy baja latencia. El proyecto integra un control de hardware físico con una arquitectura IoT moderna, proporcionando además capacidades de telemetría en tiempo real y visualización remota mediante un gemelo digital.
 
 ## 👥 Equipo de Trabajo
-- **Jorge Monroy Peña** - Lead Hardware & Firmware Engineer
-- **Diana Laura Pérez** - Backend & Data Architect
-- **Edgar Rodríguez** - Frontend & UI/UX Developer
+- **Jorge Monroy Peña** -
+- **Diana Laura Pérez** -
+- **Edgar Rodríguez** -
 
 ## 🎯 Propósito del Proyecto y Problema que Resuelve
 En entornos industriales, peligrosos o de difícil acceso (como manejo de materiales tóxicos, zonas de desastre o procesos de manufactura remota), la intervención humana directa representa un riesgo crítico. **TeleBrazo** resuelve este problema al permitir que un operador controle un brazo robótico a distancia de manera intuitiva (replicación de movimiento 1:1), sin sacrificar la retroalimentación. 
